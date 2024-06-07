@@ -1,0 +1,19 @@
+created_by: Danijel Soldo
+domain: geography
+seed_examples:
+  - answer: The capital city of Croatia is Zagreb.
+    question: What is the capital city of Croatia?
+  - answer: The Adriatic Sea borders Croatia to the west.
+    question: Which sea borders Croatia to the west?
+  - answer: The largest island in Croatia is Krk.
+    question: What is the largest island in Croatia?
+  - answer: The Dinaric Alps run through Croatia.
+    question: Which major mountain range runs through Croatia?
+  - answer: The famous national park in Croatia known for its lakes and waterfalls is Plitvice Lakes National Park.
+    question: What is the name of the famous national park in Croatia known for its lakes and waterfalls?
+task_description: ""
+document:
+  repo: https://github.com/danijel-soldo/taxonomy/
+  commit: 1dc85d0fc19e21ad8adbf5f98bd8aa1e31257d0a
+  patterns:
+    - 
